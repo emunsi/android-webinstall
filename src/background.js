@@ -15,7 +15,7 @@ async function createWindow() {
   const win = new BrowserWindow({
     width: 1280,
     height: 720,
-    icon: __dirname + '/ethOS.ico',
+    icon: __dirname + '/ethOS.icns',
     webPreferences: {
 
       // Use pluginOptions.nodeIntegration, leave this alone
